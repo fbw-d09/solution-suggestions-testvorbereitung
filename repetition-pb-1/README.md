@@ -1,7 +1,7 @@
 # Repetition PB
 
 
-## PLease solve by using a callback (filter, reduce, map ...)
+## Please solve by using a callback (filter, reduce, map ...)
 
 ---
 
